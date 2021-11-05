@@ -28,8 +28,8 @@ import time
 # In[2]:
 
 
-from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+#from selenium import webdriver
+#from selenium.webdriver.common.keys import Keys
 from os import getcwd
 import os
 

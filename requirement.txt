@@ -1,0 +1,7 @@
+tensorflow==2.6.0
+faiss-gpu==1.7.1.post2
+flask
+flask_sqlalchemy
+flask_ngrok
+patool
+pyunpack
