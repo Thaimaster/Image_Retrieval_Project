@@ -1,7 +1,7 @@
 # **IMAGE RETRIEVAL**
 ---
 ## DEMO
-[![Image Retrival Demo](Screenshots/Screenshot1.jpg)](https://youtu.be/qcoXDGlA_qU)
+[![Image Retrival Demo](screenshots/Screenshot1.jpg)](https://youtu.be/qcoXDGlA_qU)
 ---
 ## ALGORITHMS
  - Gather database:
