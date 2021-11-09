@@ -18,11 +18,10 @@
 
    ` pip -r install requirement.txt`
 - Download Dataset (required uncompressed program in direct path like: Winrar, 7Zip):
- `python Download_dataset.py`
+ `python Download_dataset.py` 
 ---
 ## RUN THE PROJECT
-
-  ` python Sever.py `
+  `python Sever.py`
 ---
 ## Reference
 - In this project, we use code from:
