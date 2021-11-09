@@ -10,7 +10,7 @@
     - Pre-processing image: remove invalid image
  - Main system:
     - Use saliency model to crop image from database then get feature extracting by VGG16 model. The query image will extract feature too.
-    - In order to find similar image, I use Faiss (library search from Facebook). It use Euclidean method and IVFPQ ( Inverted Index + Product Quantization) to reduce memory and increase speed search
+    - In order to find similar image in database (20000+ image), I use Faiss (library search from Facebook). It use Euclidean method and IVFPQ ( Inverted Index + Product Quantization) to reduce memory and increase speed search
     - Finally, I use simple template web to implement and foward by ngrok
 ---
 ## REQUIREMENT
