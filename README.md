@@ -21,7 +21,8 @@
  `python Download_dataset.py`
 ---
 ## RUN THE PROJECT
- `python sever.py`
+
+  ` python Sever.py `
 ---
 ## Reference
 - In this project, we use code from:
