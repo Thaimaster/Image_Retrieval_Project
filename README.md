@@ -17,10 +17,11 @@
  - This package requires Python >= 3.7. Install all dependencies using requirements file:
 
    ` pip -r install requirement.txt`
-- ngrok: 
+- Download Dataset (required uncompressed program in direct path like: Winrar, 7Zip):
+ `python Download_dataset.py`
 ---
 ## RUN THE PROJECT
-python sever.py
+ `python sever.py`
 ---
 ## Reference
 - In this project, we use code from:
