@@ -1,7 +1,7 @@
 # **IMAGE RETRIEVAL**
 ---
 ## DEMO
-[![Image Retrival Demo](screenshots/screenshot1.jpg)](https://youtu.be/qcoXDGlA_qU)
+[![Image Retrival Demo](Screenshots/Screenshot1.jpg)](https://youtu.be/qcoXDGlA_qU)
 ---
 ## ALGORITHMS
  - Gather database:
@@ -21,7 +21,7 @@
  `python Download_dataset.py` 
 ---
 ## RUN THE PROJECT
-  `python Sever.py`
+    python Sever.py
 ---
 ## Reference
 - In this project, we use code from:
